@@ -2,6 +2,6 @@
 2.
 3.Welcome to termux secure
 4.
-5.username:
-6.password:
+5.secure
+6.hack
 7.
